@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&fontSize=65&text=Yunji%20Github!)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&fontSize=50&text=Welcome%20to%20Yunji's%20Github!)
 <br>
 안녕하세요! 프론트에 관심많은 김윤지입니다😄
 ## 📁 Projects 📁
